@@ -1,0 +1,5 @@
+1.0 199999 Thor Odin Mjolnir
+2.4 299999 Loki Odin Scepter
+3.0 616 Tony Odin IronMan
+3.1 617 Steve Odin CaptainAmerica
+3.6 200 Thor Odin Stormbreaker

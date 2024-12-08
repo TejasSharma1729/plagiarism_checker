@@ -1,0 +1,7 @@
+1.0 8000 HermioneGranger AlbusDumbledore apparation
+1.1 1037 RonWeasley MinervaMcgonagall vanishing
+3.2 2195 DracoMalfoy SeverusSnape polymorph
+3.8 2279 SaemusFinnigan SeverusSnape babbling
+3.9 1111 NevilleLongbottom MinervaMcgonagall brooms
+5.1 4449 HarryPotter MinervaMcgonagall conjuring
+5.2 9962 PadmaPatil SeverusSnape confuse
